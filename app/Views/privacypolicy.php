@@ -3,6 +3,7 @@
 <br>
 <br>
 <br>
+
 <section class="w-full" itemscope itemtype="https://schema.org/PrivacyPolicy">
     <div class="w-full container mx-auto px-6 md:px-12 py-16">
         <!-- Intro Section -->

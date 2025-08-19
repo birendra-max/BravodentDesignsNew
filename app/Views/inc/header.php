@@ -45,8 +45,8 @@
     <meta name="distribution" content="global">
 
     <!-- CSS & JS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="public/css/hd.css">
+    <script src="https://cdn.tailwindcss.com"></script>
     <script src="public/js/spinner.js"></script>
     <script src="public/js/jQuery.js"></script>
 
@@ -54,7 +54,7 @@
         html {
             margin: 0;
             padding: 0;
-            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
     </style>
 </head>

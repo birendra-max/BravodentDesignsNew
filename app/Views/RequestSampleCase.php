@@ -519,7 +519,7 @@
                     <!-- Submit Button -->
                     <div class="w-full mt-6 text-center">
                         <?php
-                        include 'LoaderGif.php';
+                        echo view('LoaderGif');
                         ?>
                         <button type="submit" id="sendrequest"
                             class="px-6 py-3 bg-green-500 text-white font-semibold rounded-lg shadow-lg hover:bg-green-600 focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
@@ -532,7 +532,7 @@
     </div>
 
     <?php
-    include 'PopupModal.php';
+    echo view('PopupModal');
     ?>
 
 </section>
@@ -582,7 +582,7 @@
 
 
             $.ajax({
-                url: "inc/SampleRequestBack.php",
+                url: "<?php echo base_url('sampleRequest'); ?>",
                 type: "POST",
                 data: JSON.stringify(formobject),
                 contentType: "application/json",
