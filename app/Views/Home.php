@@ -2,6 +2,14 @@
  <br>
  <br>
 
+ <?php
+    echo view('Chatbox');
+    ?>
+
+ <?php
+    echo view('RequestSampleCase');
+    ?>
+
  <!-- Hero Section with Schema.org markup -->
  <section itemscope itemtype="https://schema.org/DentalClinic">
      <div class="w-full sm:h-screen">

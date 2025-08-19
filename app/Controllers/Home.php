@@ -38,4 +38,19 @@ class Home extends BaseController
     {
         return view('inc/header') . view('faq') . view('inc/footer');
     }
+
+    public function pp()
+    {
+        return view('inc/header') . view('privacypolicy') . view('inc/footer');
+    }
+
+    public function tc()
+    {
+        return view('inc/header') . view('termsconditions') . view('inc/footer');
+    }
+
+    public function blogs()
+    {
+        return view('inc/header') . view('blogs') . view('inc/footer');
+    }
 }

@@ -12,3 +12,6 @@ $routes->get('workflow.html','Home::workflow');
 $routes->get('join_our_team.html',"Home::join_ourtTeam");
 $routes->get('faq.html',"Home::faq");
 $routes->get('contactUs.html',"Home::contactUs");
+$routes->get('privacypolicy.html',"Home::pp");
+$routes->get('termsconditions.html','Home::tc');
+$routes->get('blogs.html',"Home::blogs");
