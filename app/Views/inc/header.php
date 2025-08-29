@@ -51,10 +51,11 @@
     <script src="public/js/jQuery.js"></script>
 
     <style>
-        html {
+        body {
             margin: 0;
             padding: 0;
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            ;
         }
     </style>
 </head>
@@ -68,7 +69,7 @@
 
     <main id="main" style="display: none;" class="bg-gradient-to-r from-blue-100 via-indigo-200 to-blue-100">
 
-        <div class="flex flex-col px-2 py-2 w-full" id="topbar" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;" itemscope itemtype="https://schema.org/DentalClinic">
+        <div class="flex flex-col px-2 py-2 w-full" id="topbar" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;display: none;" itemscope itemtype="https://schema.org/DentalClinic">
             <nav class="md:px-8 px-4 py-4 flex flex-col sm:flex-row justify-between items-center bg-gradient-to-r from-blue-900 to-teal-700 shadow-lg text-white border-b rounded-md">
                 <!-- Left section: 24/7 support with Schema markup -->
                 <div class="flex flex-col sm:items-start w-full sm:w-auto text-center sm:text-left" itemprop="makesOffer" itemscope itemtype="https://schema.org/Offer">
@@ -206,9 +207,11 @@
                 let pageTitle = document.title;
 
                 if (pageTitle == 'BravoDent Designs | Premium Dental Lab Services USA/UK/Canada') {
+                    $('#topbar').show();
                     $('#home').removeClass('text-black block text-[14px] hover:text-[#28a745] hover:font-extrabold transition-all ease-in-out duration-300 font-bold');
                     $('#home').addClass('text-[#28a745] font-extrabold transition-all ease-in-out duration-300');
                 } else {
+                    $('#topbar').hide();
                     $("#home").addClass('text-black block text-[14px] hover:text-[#28a745] hover:font-extrabold transition-all ease-in-out duration-300 font-bold');
                     $('#home').removeClass('text-[#28a745] font-extrabold transition-all ease-in-out duration-300');
                 }

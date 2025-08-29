@@ -6,134 +6,143 @@
 <br>
 <br>
 
+
 <section class="space-y-8 py-8 md:mt-12 md:px-8 px-2">
 
     <!-- Crown and Bridge Solutions -->
-    <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl" itemscope itemtype="https://schema.org/Product">
+    <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
+
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg" itemprop="name">Crown and Bridge Solutions</h2>
-            <p class="text-lg text-gray-200 leading-relaxed" itemprop="description">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
+            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Crown and Bridge Solutions</h2>
+            <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
         <div class="relative flex items-center">
             <!-- Previous Button -->
-            <button id="prevBtn1" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105" aria-label="Previous crown and bridge examples">
+            <button id="prevBtn1" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
             </button>
 
             <!-- Image Carousel -->
-            <div class="flex overflow-x-auto space-x-6 pb-8 hide-scrollbar" id="scrollContainer1" itemscope itemtype="https://schema.org/ItemList">
+            <div class="flex overflow-x-auto space-x-6 pb-8 hide-scrollbar" id="scrollContainer1">
                 <!-- Image 1 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/18.PNG" alt="BravoDent crown and bridge dental design example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/18.PNG" alt="AT & T PREPAID" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 2 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Anterior Designs.PNG" alt="BravoDent anterior dental crown design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Anterior Designs.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 3 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/anterior.jpg" alt="BravoDent anterior dental restoration example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/anterior.jpg" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 4 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/anterior.jpg bravodent .png" alt="Custom anterior dental crown by BravoDent" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/anterior.jpg bravodent .png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 5 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/anterior.jpg bravodent .png" alt="Premium anterior dental restoration by BravoDent" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/anterior.jpg bravodent .png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 6 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/bridge 1.jpg" alt="BravoDent dental bridge design example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/bridge 1.jpg" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
+
 
                 <!-- Image 7 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/copy - latral.PNG" alt="BravoDent lateral dental crown design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/copy - latral.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
+
 
                 <!-- Image 8 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/copy.PNG" alt="BravoDent dental crown copy design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/copy.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
+
 
                 <!-- Image 9 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/marror design.PNG" alt="BravoDent mirror dental design technique" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/marror design.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
+
                 <!-- Image 10 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/PFA 2.PNG" alt="BravoDent PFA dental crown design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/PFA 2.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 11 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/PFA.PNG" alt="BravoDent premium PFA dental restoration" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/PFA.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 12 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 3.PNG" alt="BravoDent sample dental crown design #3" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 3.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 13 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 6.PNG" alt="BravoDent sample dental crown design #6" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 6.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 14 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 8.PNG" alt="BravoDent sample dental crown design #8" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 8.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 15 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 14.PNG" alt="BravoDent sample dental crown design #14" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 14.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 16 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 16.PNG" alt="BravoDent sample dental crown design #16" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 16.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 17 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/sample design.PNG" alt="BravoDent standard dental crown design sample" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/sample design.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 18 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2024-04-26 233222.png" alt="BravoDent dental crown design screenshot" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2024-04-26 233222.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2024-05-15 000330.png" alt="BravoDent dental crown design work example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2024-05-15 000330.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2024-05-16 232110.png" alt="BravoDent dental restoration design process" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2024-05-16 232110.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2025-01-03  bravodent.png" alt="BravoDent dental crown design interface" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2025-01-03  bravodent.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2025-01-03 110437 BravoDent.png" alt="BravoDent premium dental crown design example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2025-01-03 110437 BravoDent.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
             </div>
 
             <!-- Next Button -->
-            <button id="nextBtn1" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105" aria-label="Next crown and bridge examples">
+            <button id="nextBtn1" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
@@ -141,67 +150,69 @@
         </div>
     </div>
 
+
     <!-- Implant Restorations -->
-    <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl" itemscope itemtype="https://schema.org/Product">
+    <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
+
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg" itemprop="name">Implant Restorations</h2>
-            <p class="text-lg text-gray-200 leading-relaxed" itemprop="description">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
+            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Implant Restorations</h2>
+            <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
         <div class="relative flex items-center">
             <!-- Previous Button -->
-            <button id="prevBtn2" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105" aria-label="Previous implant restoration examples">
+            <button id="prevBtn2" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
             </button>
 
             <!-- Image Carousel -->
-            <div class="flex overflow-x-auto space-x-6 pb-8 hide-scrollbar" id="scrollContainer2" itemscope itemtype="https://schema.org/ItemList">
+            <div class="flex overflow-x-auto space-x-6 pb-8 hide-scrollbar" id="scrollContainer2">
                 <!-- Image 1 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/abt.jpg" alt="BravoDent dental implant abutment design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/abt.jpg" alt="AT & T PREPAID" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 2 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/abutment.JPG" alt="BravoDent custom dental implant abutment" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/abutment.JPG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 3 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Anterior with implant - BravoDent .png" alt="BravoDent anterior dental implant restoration" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Anterior with implant - BravoDent .png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 4 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/BravoDent Design implant and crown .png" alt="BravoDent implant and crown restoration design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/BravoDent Design implant and crown .png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
                 <!-- Image 5 -->
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Capture.PNG" alt="BravoDent dental implant restoration example" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Capture.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Costom Aboument.JPG" alt="BravoDent custom dental implant abutment design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Costom Aboument.JPG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/implant.PNG" alt="BravoDent dental implant restoration design" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/implant.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Sample design 7.PNG" alt="BravoDent sample dental implant restoration #7" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Sample design 7.PNG" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
 
-                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
-                    <img src="public/images/Products Listing/Screenshot 2025-01-03 110701bravdont.png" alt="BravoDent dental implant restoration interface" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105" itemprop="image">
+                <div class="h-44 md:h-58 md:w-72 w-48 group relative inline-block overflow-hidden rounded font-medium text-slate-800 hover:text-indigo-600 focus:outline-none focus:ring active:bg-indigo-600 hover:p-1 flex-shrink-0">
+                    <img src="public/images/Products Listing/Screenshot 2025-01-03 110701bravdont.png" alt="BOOST MOBILE" class="cursor-pointer block h-full w-full rounded-xl object-cover object-center transition-all duration-300 group-hover:scale-105">
                 </div>
             </div>
 
             <!-- Next Button -->
-            <button id="nextBtn2" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105" aria-label="Next implant restoration examples">
+            <button id="nextBtn2" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 focus:outline-none z-10 shadow-xl transition-transform duration-200 hover:scale-105">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
@@ -209,7 +220,6 @@
         </div>
     </div>
 
-    
 
     <!-- Removable Prosthetics -->
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
@@ -597,6 +607,7 @@
     </div>
 
 </section>
+
 
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {

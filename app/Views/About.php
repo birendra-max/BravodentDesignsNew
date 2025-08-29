@@ -10,7 +10,7 @@
 <!-- About Us Section -->
 <section class="" itemscope itemtype="https://schema.org/AboutPage">
     <div class="w-full">
-        <div class="w-full h-[50vh] bg-[url('public/images/BravoDentAboutpage.png')] bg-cover bg-center bg-no-repeat z-50">
+        <div class="md:w-full h-[50vh] bg-[url('public/images/BravoDentAboutpage.png')] bg-cover bg-center bg-no-repeat z-50">
             <div class="w-full h-full relative top-10 pb-20">
                 <div class="lg:px-16 md:px-8 px-4 flex sm:flex-row flex-col flex-col-reverse gap-6 justify-center items-center">
                     <div class="sm:text-left text-center text-white md:mt-12">
@@ -21,6 +21,7 @@
         </div>
     </div>
 </section>
+
 
 <section class="py-6 md:-mt-[8vh] flex justify-center items-center">
     <div class="mx-auto px-6 sm:px-8">
