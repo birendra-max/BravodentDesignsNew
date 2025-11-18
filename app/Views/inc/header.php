@@ -5,13 +5,19 @@
     <!-- Primary Meta Tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- OPTIMIZED: Shorter title without country list -->
     <title>BravoDent Designs | Premium Dental Lab Services</title>
     <meta name="description" content="Top-rated dental lab offering custom crowns, bridges, implants & smile designs. Precision CAD/CAM solutions for dentists & clinics worldwide.">
 
-    <!-- Keywords (simplified) -->
+    <!-- Keywords -->
     <meta name="keywords" content="dental lab, dental crowns, dental bridges, custom implants, CAD/CAM dentistry, cosmetic dental designs, smile makeover, zirconia crowns, dental prosthetics">
+
+    <!-- Geo Targeting Meta Tags for USA, Canada, UK -->
+    <meta name="geo.region" content="US">
+    <meta name="geo.region" content="CA">
+    <meta name="geo.region" content="GB">
+    <meta name="geo.placename" content="New York, Toronto, London">
+    <meta name="geo.position" content="40.7128;-74.0060">
+    <meta name="ICBM" content="40.7128, -74.0060">
 
     <!-- Canonical & Favicon -->
     <link rel="canonical" href="https://bravodentdesigns.com">
@@ -42,22 +48,7 @@
     <meta name="revisit-after" content="7 days">
     <meta name="distribution" content="global">
 
-    <!-- CSS & JS -->
-    <link rel="stylesheet" href="public/css/hd.css">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="public/js/spinner.js"></script>
-    <script src="public/js/jQuery.js"></script>
-
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        }
-    </style>
-
-
-    <!-- In your header, add explicit brand schema -->
+    <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -172,6 +163,20 @@
             ]
         }
     </script>
+
+    <!-- CSS & JS -->
+    <link rel="stylesheet" href="public/css/hd.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="public/js/spinner.js"></script>
+    <script src="public/js/jQuery.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    </style>
 </head>
 
 
