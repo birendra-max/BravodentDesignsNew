@@ -8,7 +8,7 @@
 <section class="md:py-24 py-8" itemscope itemtype="https://schema.org/FAQPage">
     <div class="max-w-7xl mx-auto md:px-6 px-4">
         <div class="bg-white py-4 border-t-4 border-teal-500 rounded-lg shadow-md hover:scale-105 transform transition-all duration-300 mb-8">
-            <h2 class="text-3xl font-semibold text-center text-gray-900">Frequently Asked Questions</h2>
+            <h1 class="text-3xl font-semibold text-center text-gray-900">Frequently Asked Questions</h1>
         </div>
         <div class="grid lg:grid-cols-2 gap-12">
             <!-- Left: FAQ Section -->

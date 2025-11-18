@@ -5,19 +5,21 @@
     <!-- Primary Meta Tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BravoDent Designs | Premium Dental Lab Services USA/UK/Canada</title>
-    <meta name="description" content="Top-rated dental lab in North America & UK offering custom crowns, bridges, implants & smile designs. Precision CAD/CAM solutions for dentists & clinics.">
 
-    <!-- Keywords (still somewhat relevant for SEO) -->
-    <meta name="keywords" content="dental lab USA, dental crowns Canada, UK dental bridges, custom implants, CAD/CAM dentistry, cosmetic dental designs, smile makeover, zirconia crowns, dental prosthetics, veneers design">
+    <!-- OPTIMIZED: Shorter title without country list -->
+    <title>BravoDent Designs | Premium Dental Lab Services</title>
+    <meta name="description" content="Top-rated dental lab offering custom crowns, bridges, implants & smile designs. Precision CAD/CAM solutions for dentists & clinics worldwide.">
+
+    <!-- Keywords (simplified) -->
+    <meta name="keywords" content="dental lab, dental crowns, dental bridges, custom implants, CAD/CAM dentistry, cosmetic dental designs, smile makeover, zirconia crowns, dental prosthetics">
 
     <!-- Canonical & Favicon -->
     <link rel="canonical" href="https://bravodentdesigns.com">
     <link rel="icon" href="public/images/favicon.ico" type="image/x-icon">
 
     <!-- Open Graph / Social Media Meta Tags -->
-    <meta property="og:title" content="BravoDent Designs | Premium Dental Lab Services USA/UK/Canada">
-    <meta property="og:description" content="Trusted by 500+ dental practices across North America & UK for precision crowns, bridges & implant solutions. CAD/CAM certified designs.">
+    <meta property="og:title" content="BravoDent Designs | Premium Dental Lab Services">
+    <meta property="og:description" content="Trusted by dental practices worldwide for precision crowns, bridges & implant solutions. CAD/CAM certified designs.">
     <meta property="og:image" content="https://bravodentdesigns.com/assets/images/homepage-image.jpg">
     <meta property="og:url" content="https://bravodentdesigns.com">
     <meta property="og:type" content="website">
@@ -26,18 +28,14 @@
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="BravoDent Designs | Premium Dental Lab Services USA/UK/Canada">
-    <meta name="twitter:description" content="North America & UK's trusted dental lab for crowns, bridges & implants. 98% satisfaction rate from dental professionals.">
+    <meta name="twitter:title" content="BravoDent Designs | Premium Dental Lab Services">
+    <meta name="twitter:description" content="Trusted dental lab for crowns, bridges & implants. 98% satisfaction rate from dental professionals.">
     <meta name="twitter:image" content="https://bravodentdesigns.com/assets/images/homepage-image.jpg">
     <meta name="twitter:site" content="@BravoDent">
 
     <!-- Author and Copyright -->
     <meta name="author" content="BravoDent Designs">
     <meta name="copyright" content="BravoDent Designs">
-
-    <!-- Geo Targeting for USA, Canada, UK -->
-    <meta name="geo.region" content="US-CA-UK">
-    <meta name="geo.placename" content="New York, Toronto, London">
 
     <!-- SEO Enhancements -->
     <meta name="robots" content="index, follow">
@@ -54,10 +52,126 @@
         body {
             margin: 0;
             padding: 0;
-            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-            ;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
     </style>
+
+
+    <!-- In your header, add explicit brand schema -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "DentalClinic",
+            "name": "BravoDent Designs",
+            "alternateName": [
+                "BravoDent",
+                "Bravo Dent Designs",
+                "BravoDent Dental Lab",
+                "BravoDent Designs Dental Laboratory"
+            ],
+            "url": "https://bravodentdesigns.com",
+            "logo": "https://bravodentdesigns.com/public/images/logo.png",
+            "description": "BravoDent Designs - Premium Dental Laboratory Services for crowns, bridges, implants & cosmetic dentistry. CAD/CAM certified dental lab serving dentists worldwide.",
+            "medicalSpecialty": ["Dentistry", "CosmeticDentistry", "Prosthodontics"],
+            "serviceType": "DentalLaboratory",
+            "services": [
+                "Dental Crowns",
+                "Dental Bridges",
+                "Dental Implants",
+                "Veneers",
+                "Dentures",
+                "CAD/CAM Dentistry",
+                "Smile Design",
+                "Teeth Whitening",
+                "Dental Restorations",
+                "Zirconia Crowns",
+                "Dental Prosthetics"
+            ],
+            "areaServed": [
+                "United States",
+                "UK",
+                "Canada",
+                "India",
+                "Worldwide"
+            ],
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Dental Laboratory Services",
+                "itemListElement": [{
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Custom Dental Crowns",
+                            "description": "Precision dental crowns including Zirconia, E-max, PFM and ceramic crowns"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Dental Bridges",
+                            "description": "Fixed dental bridges for missing teeth replacement"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Dental Implants",
+                            "description": "Implant-supported crowns, bridges and dentures"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "CAD/CAM Dentistry",
+                            "description": "Digital dental design and manufacturing services"
+                        }
+                    }
+                ]
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "IN",
+                "addressLocality": "India"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "email": "info@bravodentdesigns.com",
+                "contactType": "customer service",
+                "availableLanguage": ["English", "Hindi"]
+            },
+            "sameAs": [
+                "https://www.facebook.com/BravoDentDesigns",
+                "https://www.linkedin.com/company/bravodent-designs",
+                "https://twitter.com/BravoDentDesigns",
+                "https://www.instagram.com/bravodentdesigns/"
+            ],
+            "keywords": [
+                "dental lab USA",
+                "dental lab UK",
+                "dental lab Canada",
+                "dental crowns India",
+                "CAD/CAM dental lab",
+                "cosmetic dentistry lab",
+                "dental implants lab",
+                "zirconia crowns",
+                "dental bridges",
+                "smile design",
+                "dental prosthetics",
+                "teeth veneers",
+                "dental laboratory services",
+                "digital dentistry",
+                "premium dental lab",
+                "custom dental work",
+                "dental restoration lab",
+                "dentist laboratory",
+                "dental clinic supplies",
+                "dental lab near me"
+            ]
+        }
+    </script>
 </head>
 
 

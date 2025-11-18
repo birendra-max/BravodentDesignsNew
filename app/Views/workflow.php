@@ -20,7 +20,7 @@
     </div>
 
     <div class="p-4">
-        <h2 class="text-3xl text-black font-bold mb-12 text-center">Workflow Steps - BravoDent Design Center</h2>
+        <h1 class="text-3xl text-black font-bold mb-12 text-center">Workflow Steps - BravoDent Design Center</h1>
         <div class="flex flex-col p-2 mx-auto md:grid" itemscope itemtype="https://schema.org/ItemList">
             <!-- Step 1 -->
             <div class="flex md:contents flex-row-reverse animate__animated animate__fadeIn animate__delay-1s" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
@@ -148,7 +148,7 @@
     <div class="relative bg-cover bg-center bg-opacity-60 px-8 my-8" style="background-image: url('https://source.unsplash.com/1600x900/?technology,team');" role="img" aria-label="BravoDent team working on dental technology">
         <div class="absolute inset-0 bg-gradient-to-r from-black opacity-60"></div>
         <div class="relative z-10 text-center py-24">
-            <h2 class="text-4xl font-extrabold text-white">Why BravoDent Stands Out</h2>
+            <h1 class="text-4xl font-extrabold text-white">Why BravoDent Stands Out</h1>
             <p class="text-lg sm:text-xl text-gray-300 mt-6 max-w-3xl mx-auto">
                 Experience the difference of working with a team of experts who are committed to your success. At BravoDent, we build lasting relationships based on trust and results.
             </p>
@@ -171,7 +171,7 @@
 
     <!-- Final CTA Section -->
     <div class="text-center mt-24">
-        <h2 class="text-4xl font-extrabold text-gray-900">Experience the BravoDent Advantage</h2>
+        <h1 class="text-4xl font-extrabold text-gray-900">Experience the BravoDent Advantage</h1>
         <p class="text-lg sm:text-xl text-gray-600 mt-6 max-w-3xl mx-auto">
             Don't settle for promises—see the results for yourself. Partner with BravoDent, and let us elevate your practice with precision, professionalism, and proven results.
         </p>

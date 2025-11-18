@@ -22,7 +22,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                     </svg>
                 </button>
-                <h2 id="popupTitle" class="md:text-2xl text-2xl font-bold text-gray-800 mb-4 text-center">Set Up Your Account for Trial Case and <br> Get Your few First Design Free!</h2>
+                <h1 id="popupTitle" class="md:text-2xl text-2xl font-bold text-gray-800 mb-4 text-center">Set Up Your Account for Trial Case and <br> Get Your few First Design Free!</h1>
                 <p class="text-gray-600 text-center mb-8">Register Your Account</p>
 
                 <!-- Form -->

@@ -13,7 +13,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Crown and Bridge Solutions</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Crown and Bridge Solutions</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -155,7 +155,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Implant Restorations</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Implant Restorations</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -225,7 +225,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Removable Prosthetics</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Removable Prosthetics</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -287,7 +287,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Digital Planning and Models</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Digital Planning and Models</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -331,7 +331,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Posterior Designs</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Posterior Designs</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -430,7 +430,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Aesthetic Restorations</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Aesthetic Restorations</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -465,7 +465,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Temporary and Interim Restorations</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Temporary and Interim Restorations</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 
@@ -528,7 +528,7 @@
     <div class="space-y-8 py-16 px-2 md:px-12 lg:px-24 bg-gradient-to-r from-blue-900 via-indigo-600 to-purple-700 rounded-2xl shadow-xl">
 
         <div class="text-center space-y-6">
-            <h2 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Frameworks</h2>
+            <h1 class="text-3xl md:text-4xl font-semibold text-white tracking-tight drop-shadow-lg">Frameworks</h1>
             <p class="text-lg text-gray-200 leading-relaxed">Explore top-tier dental solutions designed to provide a seamless experience and long-lasting results for your smile.</p>
         </div>
 

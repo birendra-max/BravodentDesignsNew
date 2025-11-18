@@ -8,7 +8,7 @@
     <div class="w-full container mx-auto px-6 md:px-12 py-16">
         <!-- Intro Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Privacy Policy</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Privacy Policy</h1>
             <p class="text-gray-700 text-lg leading-relaxed" itemprop="description">
                 At BravoDent, we are committed to protecting your privacy and ensuring the highest standards of data security. This Privacy Policy explains how we collect, use, store, and protect your information when you interact with our website, services, tools, and our proprietary portal. By using our services, you agree to the terms outlined in this policy.
             </p>
@@ -16,7 +16,7 @@
 
         <!-- Data Collection Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Information We Collect</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Information We Collect</h1>
             <p class="text-gray-700 text-lg mb-4">
                 We may collect the following categories of information:
             </p>
@@ -31,7 +31,7 @@
 
         <!-- Data Usage Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">How We Use Your Information</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">How We Use Your Information</h1>
             <p class="text-gray-700 text-lg mb-4">
                 Your information is used to:
             </p>
@@ -46,7 +46,7 @@
 
         <!-- Data Protection Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Sharing Your Information</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Sharing Your Information</h1>
             <p class="text-gray-700 text-lg mb-4">
                 We respect your privacy and will never sell your personal data. However, your data may be shared in the following scenarios:
             </p>
@@ -59,7 +59,7 @@
 
         <!-- Data Retention Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Data Retention and Disposal</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Data Retention and Disposal</h1>
             <p class="text-gray-700 text-lg mb-4">
                 We retain your data only for as long as necessary to:
             </p>
@@ -75,7 +75,7 @@
 
         <!-- Your Rights and Choices Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Your Rights and Choices</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Your Rights and Choices</h1>
             <p class="text-gray-700 text-lg mb-4">
                 As a user, you have the following rights:
             </p>
@@ -93,7 +93,7 @@
 
         <!-- Changes to Privacy Policy Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Changes to This Privacy Policy</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Changes to This Privacy Policy</h1>
             <p class="text-gray-700 text-lg">
                 We reserve the right to update this Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review it periodically. By continuing to use our services, you accept the terms of the updated policy.
             </p>
@@ -101,7 +101,7 @@
 
         <!-- Data Security Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Data Security</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Data Security</h1>
             <p class="text-gray-700 text-lg">
                 BravoDent employs advanced security measures, including encryption, secure servers, and regular audits, to protect your data from unauthorized access and breaches. These measures also extend to our proprietary portal. While we prioritize security, no system is immune to risks, and we recommend caution when sharing sensitive information.
             </p>
@@ -109,7 +109,7 @@
 
         <!-- International Data Transfers Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">International Data Transfers</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">International Data Transfers</h1>
             <p class="text-gray-700 text-lg">
                 As a global service provider, we may process your data in countries with varying data protection laws. Regardless of location, your data will be handled in accordance with this Privacy Policy and applicable regulations, such as GDPR for EU users.
             </p>
@@ -117,7 +117,7 @@
 
         <!-- Cookies, Tracking Technologies Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Cookies, Tracking Technologies, and Portal Logs</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Cookies, Tracking Technologies, and Portal Logs</h1>
             <p class="text-gray-700 text-lg mb-4">
                 Our website and proprietary portal use cookies and tracking technologies to:
             </p>
@@ -133,7 +133,7 @@
 
         <!-- Policy Updates Section -->
         <section class="mb-10" itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Policy Updates and Notifications</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Policy Updates and Notifications</h1>
             <p class="text-gray-700 text-lg">
                 This Privacy Policy may be updated periodically to reflect changes in our practices or legal requirements. Significant changes will be communicated via email, a notice on our website, or through the portal. We encourage you to review this policy regularly to stay informed.
             </p>
@@ -141,7 +141,7 @@
 
         <!-- Contact Information Section -->
         <section itemprop="mainContentOfPage">
-            <h2 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Contact Information</h2>
+            <h1 class="text-4xl font-bold text-indigo-700 mb-6" itemprop="headline">Contact Information</h1>
             <p class="text-gray-700 text-lg">
                 If you have any questions, concerns, or feedback about our Privacy Policy, portal usage, or data practices, please contact us at:
             </p>

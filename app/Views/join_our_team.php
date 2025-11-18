@@ -19,7 +19,7 @@
         <div class="space-y-10" itemscope itemtype="https://schema.org/ItemList">
             <!-- Position Card 1 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-blue-500 hover:border-blue-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-blue-700">Dental CAD Designer</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-blue-700">Dental CAD Designer</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Create accurate dental designs using CAD/CAM technology.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Experience in dental CAD design, attention to detail, and meeting deadlines.</span></p>
@@ -29,7 +29,7 @@
             </div>
             <!-- Position Card 2 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-green-500 hover:border-green-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-green-700">Certified Technician</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-green-700">Certified Technician</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Manage CAD/CAM equipment and assist in technical operations.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Certification in dental technologies and hands-on experience with CAD/CAM systems.</span></p>
@@ -39,7 +39,7 @@
             </div>
             <!-- Position Card 3 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-yellow-500 hover:border-yellow-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-yellow-700">Senior Designer</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-yellow-700">Senior Designer</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Handle complex cases and guide junior designers.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Extensive experience in dental design and strong leadership skills.</span></p>
@@ -49,7 +49,7 @@
             </div>
             <!-- Position Card 4 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-red-500 hover:border-red-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-red-700">Quality Controller</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-red-700">Quality Controller</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Ensure designs meet high-quality standards before delivery.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Experience in quality control with an eye for detail.</span></p>
@@ -59,7 +59,7 @@
             </div>
             <!-- Position Card 5 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-indigo-500 hover:border-indigo-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-indigo-700">Team Leader</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-indigo-700">Team Leader</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Manage the design team and ensure timely project delivery.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Leadership experience and strong organizational skills.</span></p>
@@ -69,7 +69,7 @@
             </div>
             <!-- Position Card 6 -->
             <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 transform hover:scale-105 border-l-4 border-purple-500 hover:border-purple-700" itemprop="itemListElement" itemscope itemtype="https://schema.org/JobPosting">
-                <h2 itemprop="title" class="text-2xl font-bold text-purple-700">Sales Manager</h2>
+                <h1 itemprop="title" class="text-2xl font-bold text-purple-700">Sales Manager</h1>
                 <div itemprop="description">
                     <p class="text-gray-600 mt-2"><strong>Role:</strong> <span itemprop="responsibilities">Develop client relationships and grow sales for BravoDent.</span></p>
                     <p class="text-gray-600 mt-2"><strong>Requirements:</strong> <span itemprop="experienceRequirements">Proven sales experience with excellent communication skills.</span></p>

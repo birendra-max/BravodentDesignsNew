@@ -28,7 +28,7 @@
         <div class="max-w-full sm:max-w-6xl w-full flex justify-center items-center bg-gradient-to-r from-blue-100 via-indigo-200 to-blue-100">
             <!-- Feature 1 -->
             <div class="relative bg-gray-900/90 border-gray-200 shadow-lg rounded-xl p-8 transition transform hover:scale-105 hover:shadow-2xl mx-auto text-center w-full" itemscope itemtype="https://schema.org/Organization">
-                <h2 class="font-bold text-white mb-4 text-3xl sm:text-4xl" itemprop="name">About Us</h2>
+                <h1 class="font-bold text-white mb-4 text-3xl sm:text-4xl" itemprop="name">About Us</h1>
                 <p class="text-white leading-relaxed text-3xl sm:text-xl" itemprop="description">
                     BravoDent is a dental design center based in India, offering CAD/CAM solutions for dental labs and clinics worldwide, including the USA, Canada, and more. We are committed to delivering high-quality designs for crowns, bridges, implants, and other dental needs.
                 </p>
@@ -52,21 +52,21 @@
             <!-- Text Content -->
             <div class="p-8 space-y-8" itemprop="mainContentOfPage">
                 <div class="space-y-4" itemscope itemtype="https://schema.org/Organization">
-                    <h2 class="md:text-4xl text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Mission</h2>
+                    <h1 class="md:text-4xl text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Mission</h1>
                     <p class="text-base leading-relaxed text-gray-700" itemprop="description">
                         To provide precise and reliable dental designs, helping our clients streamline their processes and focus on their patients.
                     </p>
                 </div>
 
                 <div class="space-y-4" itemscope itemtype="https://schema.org/Organization">
-                    <h2 class="text-4xl md:text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Vision</h2>
+                    <h1 class="text-4xl md:text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Vision</h1>
                     <p class="text-base leading-relaxed text-gray-700" itemprop="description">
                         To become a trusted global partner for dental labs by consistently delivering quality and dependable design services.
                     </p>
                 </div>
 
                 <div class="space-y-4" itemscope itemtype="https://schema.org/Organization">
-                    <h2 class="text-4xl md:text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Goal</h2>
+                    <h1 class="text-4xl md:text-3xl font-extrabold text-blue-800" itemprop="slogan">Our Goal</h1>
                     <p class="text-base leading-relaxed text-gray-700" itemprop="description">
                         To make professional dental design services accessible, affordable, and efficient for labs and clinics of all sizes.
                     </p>
@@ -74,9 +74,9 @@
 
                 <div class="space-y-4">
                     <!-- Title -->
-                    <h2 class="md:text-4xl text-3xl font-extrabold text-blue-800 text-center sm:text-left" itemprop="headline">
+                    <h1 class="md:text-4xl text-3xl font-extrabold text-blue-800 text-center sm:text-left" itemprop="headline">
                         Our Commitment
-                    </h2>
+                    </h1>
 
                     <div class="text-white rounded-lg mb-8 flex justify-start items-center">
                         <p class="text-sm sm:text-base font-medium text-center flex flex-nowrap justify-start items-center">
@@ -143,7 +143,7 @@
     <div class="max-w-7xl mx-auto px-6">
         <!-- Section Header -->
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-extrabold mb-4 text-gray-900" itemprop="headline">Why Choose Us</h2>
+            <h1 class="text-3xl md:text-4xl font-extrabold mb-4 text-gray-900" itemprop="headline">Why Choose Us</h1>
             <div class="w-32 h-1 bg-gray-300 rounded mx-auto mb-4"></div>
             <p class="text-xl text-gray-600" itemprop="description">Discover why our services are trusted by clients worldwide.</p>
         </div>
@@ -233,7 +233,7 @@
     <div class="max-w-7xl mx-auto px-6">
         <!-- Section Header -->
         <div class="text-center mb-12">
-            <h2 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="name">What We Offer</h2>
+            <h1 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="name">What We Offer</h1>
             <div class="w-32 h-1 bg-green-500 rounded mx-auto"></div>
         </div>
 
@@ -375,7 +375,7 @@
     <div class="max-w-7xl mx-auto md:px-6 px-4">
         <!-- Section Title: Our Team -->
         <div class="text-center mb-16">
-            <h2 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="headline">Our Team</h2>
+            <h1 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="headline">Our Team</h1>
             <div class="w-24 h-1 bg-green-500 rounded mx-auto"></div>
         </div>
 
@@ -411,7 +411,7 @@
 
         <!-- Section Title: Why We Stand Out -->
         <div class="text-center mt-24 mb-16">
-            <h2 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="headline">Why We Stand Out</h2>
+            <h1 class="text-4xl font-extrabold text-gray-800 mb-4" itemprop="headline">Why We Stand Out</h1>
             <div class="w-24 h-1 bg-green-500 rounded mx-auto"></div>
         </div>
 
@@ -477,7 +477,7 @@
 
             <!-- Right Side: Call to Action with Image -->
             <div class="bg-green-100 md:p-8 p-4 rounded-xl shadow-xl flex flex-col justify-center items-center space-y-6">
-                <h3 class="text-2xl font-semibold text-gray-800 text-center">Experience the Difference</h3>
+                <h1 class="text-2xl font-semibold text-gray-800 text-center">Experience the Difference</h1>
                 <p class="text-lg text-gray-600 text-center">Try our service with no risk—your first few units are completely free. Send us your cases and see how we deliver quality and speed you can rely on.</p>
                 <a href="contactUs.html" class="bg-green-500 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-green-600 transition-transform transform hover:scale-105" itemprop="potentialAction">
                     Start Your Free Trial
@@ -491,7 +491,7 @@
 <!-- Call-to-Action Section -->
 <section class="py-16 bg-green-200 text-white text-center" itemscope itemtype="https://schema.org/WebPage">
     <div class="max-w-4xl mx-auto">
-        <h2 class="text-4xl md:text-5xl font-bold mb-6 text-black" itemprop="headline">Ready to Transform Your Dental Practice?</h2>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6 text-black" itemprop="headline">Ready to Transform Your Dental Practice?</h1>
         <p class="text-lg mb-8 text-black" itemprop="description">
             Contact us today to learn how BravoDent can help you achieve your goals.
         </p>

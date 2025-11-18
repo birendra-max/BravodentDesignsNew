@@ -69,7 +69,7 @@
              <div class="relative bg-white border border-gray-200 shadow-lg rounded-xl p-8 transition transform hover:scale-105 hover:shadow-2xl"
                  itemprop="hasOfferCatalog" itemscope itemtype="https://schema.org/OfferCatalog">
                  <div class="absolute top-0 left-0 h-2 w-16 bg-purple-500 rounded-bl-lg rounded-tr-md"></div>
-                 <h2 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">01 | Advanced CAD Design Solutions</h2>
+                 <h1 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">01 | Advanced CAD Design Solutions</h1>
                  <p class="text-gray-600 leading-relaxed" itemprop="description">
                      Delivering precise digital dental designs, BravoDent offers a full suite of services powered by cutting-edge technology to support your workflow and deliver exceptional results.
                  </p>
@@ -79,7 +79,7 @@
              <div class="relative bg-white border border-gray-200 shadow-lg rounded-xl p-8 transition transform hover:scale-105 hover:shadow-2xl"
                  itemprop="hasOfferCatalog" itemscope itemtype="https://schema.org/OfferCatalog">
                  <div class="absolute top-0 left-0 h-2 w-16 bg-purple-500 rounded-bl-lg rounded-tr-md"></div>
-                 <h2 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">02 | Expert-Led Collaboration</h2>
+                 <h1 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">02 | Expert-Led Collaboration</h1>
                  <p class="text-gray-600 leading-relaxed" itemprop="description">
                      Partner with certified dental professionals who deeply understand the challenges of labs and clinics, ensuring every case meets the highest standards of quality and reliability.
                  </p>
@@ -89,7 +89,7 @@
              <div class="relative bg-white border border-gray-200 shadow-lg rounded-xl p-8 transition transform hover:scale-105 hover:shadow-2xl"
                  itemprop="hasOfferCatalog" itemscope itemtype="https://schema.org/OfferCatalog">
                  <div class="absolute top-0 left-0 h-2 w-16 bg-purple-500 rounded-bl-lg rounded-tr-md"></div>
-                 <h2 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">03 | Seamless Workflow Integration</h2>
+                 <h1 class="text-lg font-bold text-purple-700 mb-4" itemprop="name">03 | Seamless Workflow Integration</h1>
                  <p class="text-gray-600 leading-relaxed" itemprop="description">
                      Experience effortless collaboration with our intuitive Portal, designed to simplify communication, provide real-time updates, and ensure a smooth design-to-delivery process.
                  </p>
@@ -295,9 +295,9 @@
          <!-- Fast Turnaround Section with Offer markup -->
          <section class="md:py-24 py-12 mt-12" itemscope itemtype="https://schema.org/OfferCatalog">
              <div class="container mx-auto md:px-8 px-2 text-center">
-                 <h2 class="text-2xl sm:text-3xl font-semibold text-gray-800 mb-6" itemprop="name">
+                 <h1 class="text-2xl sm:text-3xl font-semibold text-gray-800 mb-6" itemprop="name">
                      Fast Turnaround Time - BravoDent
-                 </h2>
+                 </h1>
                  <p class="text-sm sm:text-base mb-8 mx-auto max-w-4xl text-gray-700 leading-relaxed" itemprop="description">
                      Designs delivered with speed and precision. Choose your preferred timeline: Double Speed, Super Fast, or Next Day.
                  </p>
@@ -315,7 +315,7 @@
                                      itemprop="image">
                              </div>
                          </div>
-                         <h3 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">1-2 Hours</h3>
+                         <h1 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">1-2 Hours</h1>
                          <p class="text-gray-600 text-sm sm:text-base leading-relaxed" itemprop="description">
                              Rush Delivery (1-2 Hours)
                              <br>
@@ -336,7 +336,7 @@
                                      itemprop="image">
                              </div>
                          </div>
-                         <h3 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">6 Hours</h3>
+                         <h1 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">6 Hours</h1>
                          <p class="text-gray-600 text-sm sm:text-base leading-relaxed" itemprop="description">
                              Same-Day Delivery (6 Hours)
                              <br>
@@ -357,7 +357,7 @@
                                      itemprop="image">
                              </div>
                          </div>
-                         <h3 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">12 Hours</h3>
+                         <h1 class="text-2xl font-semibold text-gray-800 mb-4" itemprop="name">12 Hours</h1>
                          <p class="text-gray-600 text-sm sm:text-base leading-relaxed" itemprop="description">
                              Next-Day Delivery (12 Hours)
                              <br>
@@ -373,7 +373,7 @@
          <!-- Dedicated Support Section -->
          <div class="bg-white py-12 p-6 border-t-4 border-teal-500 rounded-lg shadow-md hover:scale-105 transform transition-all duration-300"
              itemscope itemtype="https://schema.org/CustomerService">
-             <h3 class="text-lg sm:text-xl font-semibold text-center text-gray-800" itemprop="name">Dedicated Support?</h3>
+             <h1 class="text-lg sm:text-xl font-semibold text-center text-gray-800" itemprop="name">Dedicated Support?</h1>
              <p class="mt-4 text-gray-700 text-center text-sm sm:text-base" itemprop="description">
                  24/6 assistance from our expert team. Always here to ensure the success of your cases.
              </p>
@@ -388,7 +388,7 @@
      <div class="mx-auto max-w-7xl px-6 lg:px-8">
          <!-- Section Header -->
          <div class="text-center space-y-6">
-             <h2 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl">Our Design Products & Services</h2>
+             <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl">Our Design Products & Services</h1>
              <p class="text-lg leading-8 text-gray-600">Explore precision-driven design solutions for your dental lab, crafted to meet global standards and elevate your practice.</p>
          </div>
 
@@ -483,7 +483,7 @@
 
              <!-- Right Side: Description Area -->
              <div class="w-full max-w-3xl lg:w-2/3 bg-white rounded-lg shadow-xl p-8 transition-all duration-500 ease-in-out opacity-100" id="description-container-1">
-                 <h2 class="text-3xl font-semibold text-gray-900 mb-4 text-center">Welcome to BravoDent Design Center</h2>
+                 <h1 class="text-3xl font-semibold text-gray-900 mb-4 text-center">Welcome to BravoDent Design Center</h1>
                  <p class="text-lg text-gray-600"></p>
 
                  <video autoplay loop muted playsinline class="bg-black rounded-lg shadow-xl">
@@ -500,7 +500,7 @@
  <!-- our happy client -->
  <section class="bg-gradient-to-r from-blue-100 via-indigo-200 to-blue-100 md:py-16 py-4">
      <div class="container mx-auto text-center">
-         <h2 class="text-4xl font-semibold text-gray-900 mb-8">Our Happy Clients</h2>
+         <h1 class="text-4xl font-semibold text-gray-900 mb-8">Our Happy Clients</h1>
          <p class="text-xl text-gray-700 mb-12 mx-auto max-w-2xl">We value our clients and they trust us. Here’s what they have to say about their experiences working with us!</p>
 
          <!-- Client Testimonials Slider -->
@@ -591,7 +591,7 @@
                             <img class="w-24 h-24 rounded-full border-4 border-indigo-600 shadow-lg" src="public/images/user.png" alt="${client.name}">
                         </div>
                         <p class="md:text-xl tex-sm text-gray-800 mb-4 italic px-6">"${client.comments.join(' ')}"</p>
-                        <h3 class="font-semibold md:text-xl text-sm text-gray-900">${client.name}</h3>
+                        <h1 class="font-semibold md:text-xl text-sm text-gray-900">${client.name}</h1>
                         <p class="text-gray-600">${client.address}</p>
                         <p class="text-gray-600">${i} / 10</p>`;
 

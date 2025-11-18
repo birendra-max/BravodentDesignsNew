@@ -25,7 +25,7 @@
                 </a>
                 <a href="https://www.linkedin.com/in/bravodent-digital-dental-solution-india/" target="_self" class="w-9 h-9 rounded-full bg-gray-800 flex justify-center items-center hover:bg-indigo-600" aria-label="Connect with us on LinkedIn" itemprop="sameAs">
                     <svg class="w-[1rem] h-[1rem] text-white" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.8794 11.5527V3.86835H0.318893V11.5527H2.87967H2.8794ZM1.59968 2.81936C2.4924 2.81936 3.04817 2.2293 3.04817 1.49188C3.03146 0.737661 2.4924 0.164062 1.61666 0.164062C0.74032 0.164062 0.167969 0.737661 0.167969 1.49181C0.167969 2.22923 0.723543 2.8193 1.5829 2.8193H1.59948L1.59968 2.81936ZM4.29668 11.5527H6.85698V7.26187C6.85698 7.03251 6.87369 6.80255 6.94134 6.63873C7.12635 6.17968 7.54764 5.70449 8.25514 5.70449C9.18141 5.70449 9.55217 6.4091 9.55217 7.44222V11.5527H12.1124V7.14672C12.1124 4.78652 10.8494 3.68819 9.16483 3.68819C7.78372 3.68819 7.17715 4.45822 6.84014 4.98267H6.85718V3.86862H4.29681C4.33023 4.5895 4.29661 11.553 4.29661 11.553L4.29668 11.5527Z" fill="currentColor" />
+                        <path d="M2.8794 11.5527V3.86835H0.318893V11.5527h1.87967h1.8794ZM1.59968 2.81936C2.4924 2.81936 3.04817 2.2293 3.04817 1.49188C3.03146 0.737661 2.4924 0.164062 1.61666 0.164062C0.74032 0.164062 0.167969 0.737661 0.167969 1.49181C0.167969 2.22923 0.723543 2.8193 1.5829 2.8193H1.59948L1.59968 2.81936ZM4.29668 11.5527H6.85698V7.26187C6.85698 7.03251 6.87369 6.80255 6.94134 6.63873C7.12635 6.17968 7.54764 5.70449 8.25514 5.70449C9.18141 5.70449 9.55217 6.4091 9.55217 7.44222V11.5527H12.1124V7.14672C12.1124 4.78652 10.8494 3.68819 9.16483 3.68819C7.78372 3.68819 7.17715 4.45822 6.84014 4.98267H6.85718V3.86862H4.29681C4.33023 4.5895 4.29661 11.553 4.29661 11.553L4.29668 11.5527Z" fill="currentColor" />
                     </svg>
                 </a>
                 <a href="javascript:;" target="_self" class="w-9 h-9 rounded-full bg-gray-800 flex justify-center items-center hover:bg-indigo-600" aria-label="Watch us on YouTube">
@@ -83,15 +83,15 @@
 
 <script>
     const descriptions = {
-        item1: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>01 | Advanced CAD Design Solutions</h2><p class='mt-4 text-gray-600'>Delivering precise digital dental designs, Bravodent offers a full suite of services powered by cutting-edge technology to support your workflow and deliver exceptional results.</p>",
-        item2: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>02 | Expert-Led Collaboration</h2><p class='mt-4 text-gray-600'>Partner with certified dental professionals who deeply understand the challenges of labs and clinics, ensuring every case meets the highest standards of quality and reliability.</p>",
-        item3: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>03 | Seamless Workflow Integration</h2><p class='mt-4 text-gray-600'>Experience effortless collaboration with our intuitive Portal, designed to simplify communication, provide real-time updates, and ensure a smooth design-to-delivery process.</p>",
-        item4: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>04 | Personalized Solutions</h2><p class='mt-4 text-gray-600'>Delivering customized designs to fit your exact requirements, ensuring precision and excellence in every case.</p>",
-        item5: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>05 | Dedicated Team Support</h2><p class='mt-4 text-gray-600'>A professional team assigned to manage your cases with care, reliability, and expertise.</p>",
-        item6: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>06 | Client-Centered Care</h2><p class='mt-4 text-gray-600'>We collaborate like family, offering guidance and support to help you achieve the best outcomes.</p>",
-        item7: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>07 | Hassle-Free Process</h2><p class='mt-4 text-gray-600'>Streamlined workflows with easy uploads, real-time updates, and smooth case management through our Dentigolab Portal.</p>",
-        item8: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>08 | Trusted Partnership</h2><p class='mt-4 text-gray-600'>Building long-term relationships with our clients by delivering results that matter.</p>",
-        item9: "<h2 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>09 | Innovative Technology</h2><p class='mt-4 text-gray-600'>Bravodent is committed to using the latest technology to streamline processes, improve precision, and enhance the overall client experience.</p>"
+        item1: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>01 | Advanced CAD Design Solutions</h1><p class='mt-4 text-gray-600'>Delivering precise digital dental designs, Bravodent offers a full suite of services powered by cutting-edge technology to support your workflow and deliver exceptional results.</p>",
+        item2: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>02 | Expert-Led Collaboration</h1><p class='mt-4 text-gray-600'>Partner with certified dental professionals who deeply understand the challenges of labs and clinics, ensuring every case meets the highest standards of quality and reliability.</p>",
+        item3: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>03 | Seamless Workflow Integration</h1><p class='mt-4 text-gray-600'>Experience effortless collaboration with our intuitive Portal, designed to simplify communication, provide real-time updates, and ensure a smooth design-to-delivery process.</p>",
+        item4: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>04 | Personalized Solutions</h1><p class='mt-4 text-gray-600'>Delivering customized designs to fit your exact requirements, ensuring precision and excellence in every case.</p>",
+        item5: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>05 | Dedicated Team Support</h1><p class='mt-4 text-gray-600'>A professional team assigned to manage your cases with care, reliability, and expertise.</p>",
+        item6: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>06 | Client-Centered Care</h1><p class='mt-4 text-gray-600'>We collaborate like family, offering guidance and support to help you achieve the best outcomes.</p>",
+        item7: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>07 | Hassle-Free Process</h1><p class='mt-4 text-gray-600'>Streamlined workflows with easy uploads, real-time updates, and smooth case management through our Dentigolab Portal.</p>",
+        item8: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>08 | Trusted Partnership</h1><p class='mt-4 text-gray-600'>Building long-term relationships with our clients by delivering results that matter.</p>",
+        item9: "<h1 class='md:text-2xl text-xl sm:text-3xl md:font-extrabold font-bold text-gray-800'>09 | Innovative Technology</h1><p class='mt-4 text-gray-600'>Bravodent is committed to using the latest technology to streamline processes, improve precision, and enhance the overall client experience.</p>"
     };
 
     function showDescription(item, element) {
@@ -108,7 +108,7 @@
             }
         } else {
             const descriptionDiv = document.querySelector('#description-container');
-            descriptionDiv.innerHTML = descriptions[item] || "<h2 class='md:text-2xl text-xl font-semibold text-gray-800'>Item Not Found</h2><p class='mt-4 text-gray-600'>Sorry, no description available for this item.</p>";
+            descriptionDiv.innerHTML = descriptions[item] || "<h1 class='md:text-2xl text-xl font-semibold text-gray-800'>Item Not Found</h1><p class='mt-4 text-gray-600'>Sorry, no description available for this item.</p>";
 
             descriptionDiv.classList.remove('opacity-0');
             descriptionDiv.classList.add('opacity-100');

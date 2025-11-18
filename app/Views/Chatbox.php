@@ -17,7 +17,7 @@
                         <img src="public/images/logo.png" alt="BravoDent Dental Services" class="w-12 h-8" width="48" height="32" loading="lazy">
                     </div>
                     <div>
-                        <h2 id="chatPopupTitle" class="text-lg md:text-xl font-semibold text-white">BravoDent</h2>
+                        <h1 id="chatPopupTitle" class="text-lg md:text-xl font-semibold text-white">BravoDent</h1>
                         <span class="text-green-200 text-sm font-medium">Online</span>
                     </div>
                 </div>

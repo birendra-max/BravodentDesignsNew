@@ -4,7 +4,7 @@
 
 <section class="py-20 bg-gradient-to-r from-green-500 to-teal-500 text-white" itemscope itemtype="https://schema.org/AboutPage">
     <div class="max-w-7xl mx-auto px-6">
-        <h2 class="text-4xl font-extrabold mb-6" itemprop="headline">Welcome to BravoDent Designs</h2>
+        <h1 class="text-4xl font-extrabold mb-6" itemprop="headline">Welcome to BravoDent Designs</h1>
         <p class="text-xl mb-8" itemprop="description">At BravoDent, we are dedicated to helping dental laboratories and clinics create smiles that make a difference. Here's a little about our story.</p>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -32,7 +32,7 @@
 <!-- Second Blog Section: Our Services -->
 <section class="py-20 bg-gray-100" itemscope itemtype="https://schema.org/Service">
     <div class="max-w-7xl mx-auto px-6">
-        <h2 class="text-4xl font-extrabold text-gray-800 mb-6" itemprop="name">Our Services</h2>
+        <h1 class="text-4xl font-extrabold text-gray-800 mb-6" itemprop="name">Our Services</h1>
         <p class="text-xl text-gray-600 mb-12" itemprop="description">From crowns and bridges to smile makeovers and implants, BravoDent Designs offers
             a range of services to meet your needs. Explore our services below.</p>
 
@@ -90,7 +90,7 @@
 
 <section class="max-w-6xl mx-auto px-6 sm:px-8 mt-12" itemscope itemtype="https://schema.org/AboutPage">
     <section class="mb-12" itemprop="mainContentOfPage">
-        <h2 class="text-3xl font-semibold text-gray-700 mb-6" itemprop="headline">Our Journey: A Story of Dedication</h2>
+        <h1 class="text-3xl font-semibold text-gray-700 mb-6" itemprop="headline">Our Journey: A Story of Dedication</h1>
         <p class="text-lg text-gray-600 mb-4" itemprop="text">
             BravoDent started with a simple goal: to support dental laboratories and clinics in delivering smiles that
             make a difference. From the beginning, we knew it would not be easy, but through hard work and determination,
@@ -167,7 +167,7 @@
 
     <!-- Final Message Section -->
     <section class="text-center" itemprop="mainContentOfPage">
-        <h2 class="text-3xl font-semibold text-gray-700 mb-6" itemprop="headline">More Than a Service Provider</h2>
+        <h1 class="text-3xl font-semibold text-gray-700 mb-6" itemprop="headline">More Than a Service Provider</h1>
         <p class="text-lg text-gray-600 mb-6" itemprop="text">
             BravoDent is more than just a service provider; it's a story of hard work, trust, and unwavering commitment to
             our partners. Together, we're building a future where every smile reflects our shared dedication and passion for

@@ -26,7 +26,7 @@
                     </div>
 
                     <!-- Header -->
-                    <h2 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Contact Details</h2>
+                    <h1 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Contact Details</h1>
 
                     <!-- Description -->
                     <p class="text-gray-600 mb-6 leading-relaxed">
@@ -74,7 +74,7 @@
                         <img src="public/images/working-time.png" alt="BravoDent Working Hours" class="h-6 w-6" loading="lazy">
                     </div>
                     <!-- Header -->
-                    <h2 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Working Hours</h2>
+                    <h1 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Working Hours</h1>
 
                     <!-- Description -->
                     <p class="text-gray-600 mb-6 leading-relaxed">
@@ -112,7 +112,7 @@
                     </div>
 
                     <!-- Header -->
-                    <h2 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Our Location</h2>
+                    <h1 class="text-3xl font-bold text-gray-800 mb-4 leading-snug">Our Location</h1>
 
                     <!-- Description -->
                     <p class="text-gray-600 mb-6 leading-relaxed">
@@ -131,7 +131,7 @@
         <div class="flex flex-col sm:flex-col md:flex-row gap-12 items-center justify-center">
             <!-- Form -->
             <div class="bg-white md:p-8 p-4 rounded-xl shadow-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-105 w-full sm:w-full md:w-1/2">
-                <h2 class="md:text-3xl text-lg font-semibold text-gray-800 mb-8">Send Us a Message</h2>
+                <h1 class="md:text-3xl text-lg font-semibold text-gray-800 mb-8">Send Us a Message</h1>
                 <form class="space-y-6" id="mycontactform" action="/contact-form-handler" method="POST" aria-label="Contact Form">
                     <input type="text" name="name" placeholder="Your Name" class="w-full md:p-4 p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:outline-none" required aria-required="true">
                     <input type="email" name="email" placeholder="Your Email" class="w-full md:p-4 p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:outline-none" required aria-required="true">

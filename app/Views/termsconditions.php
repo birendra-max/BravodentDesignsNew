@@ -14,7 +14,7 @@
 
         <!-- Acceptance of Terms -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Acceptance of Terms</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Acceptance of Terms</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 By using BravoDent's services, you confirm that you have read, understood, and agree to these terms and conditions. If you do not agree with any part of these terms, you must refrain from using our services. Your continued use of our services constitutes your acceptance of any modifications made to these terms.
             </p>
@@ -22,7 +22,7 @@
 
         <!-- Confidentiality and Data Handling -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Confidentiality and Data Handling</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Confidentiality and Data Handling</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 At BravoDent, safeguarding the confidentiality of your data is of utmost importance. This includes design files, scans, and any case-related information shared by you. The following confidentiality commitments apply:
             </p>
@@ -35,7 +35,7 @@
 
         <!-- Intellectual Property Rights -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Intellectual Property Rights</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Intellectual Property Rights</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 All designs, templates, and materials produced by BravoDent are and will remain the exclusive intellectual property of BravoDent. Users are granted a non-transferable, non-exclusive license to use these materials solely for their intended purpose. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited and may result in the termination of services and legal actions.
             </p>
@@ -43,7 +43,7 @@
 
         <!-- Service Delivery and Limitations -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Service Delivery and Limitations</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Service Delivery and Limitations</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 While BravoDent strives to provide high-quality services and timely delivery, users must acknowledge the following:
             </p>
@@ -57,7 +57,7 @@
 
         <!-- Payment Terms -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Payment Terms</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Payment Terms</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 Payment for services must be made according to the terms agreed upon during order confirmation.
             </p>
@@ -70,7 +70,7 @@
 
         <!-- Dispute Resolution -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Dispute Resolution</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Dispute Resolution</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 In the event of a disagreement, both parties agree to:
             </p>
@@ -83,7 +83,7 @@
 
         <!-- Governing Law and Jurisdiction -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Governing Law and Jurisdiction</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Governing Law and Jurisdiction</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 These terms and conditions shall be governed by the laws of the designated jurisdiction. Any disputes arising from these terms will fall under the exclusive jurisdiction of the courts within the governing jurisdiction.
             </p>
@@ -91,7 +91,7 @@
 
         <!-- Updates to Terms -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Updates to Terms</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Updates to Terms</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 BravoDent reserves the right to modify these terms and conditions at any time. Changes will be posted on our website with the updated effective date. By continuing to use our services after such updates, you accept the revised terms and conditions.
             </p>
@@ -99,7 +99,7 @@
 
         <!-- Contact Information -->
         <section class="mb-12" itemprop="mainContentOfPage">
-            <h2 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Contact Information</h2>
+            <h1 class="text-3xl font-semibold text-indigo-600 mb-6" itemprop="headline">Contact Information</h1>
             <p class="text-gray-700 text-lg" itemprop="text">
                 For any questions, concerns, or support regarding these terms, please contact us at:
             </p>
