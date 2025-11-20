@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BravoDent Designs | Premium Dental Lab Services</title>
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <meta name="description" content="Top-rated dental lab offering custom crowns, bridges, implants & smile designs. Precision CAD/CAM solutions for dentists & clinics worldwide.">
 
     <!-- Keywords -->
