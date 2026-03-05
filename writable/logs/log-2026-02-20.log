@@ -1,0 +1,38 @@
+ERROR - 2026-02-20 14:20:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'u450172623_bravo_sonu'@'localhost' (using password: YES) in C:\Apache24\htdocs\BravodentDesignsNew\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\Apache24\htdocs\BravodentDesignsNew\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'u450172623_brav...', Object(SensitiveParameterValue), 'u450172623_brav...', 3306, '', 0)
+#1 C:\Apache24\htdocs\BravodentDesignsNew\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Apache24\htdocs\BravodentDesignsNew\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Apache24\htdocs\BravodentDesignsNew\app\Controllers\Home.php(97): CodeIgniter\Database\BaseConnection->query('INSERT INTO con...', Array)
+#4 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(933): App\Controllers\Home->contact_us()
+#5 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Apache24\htdocs\BravodentDesignsNew\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#8 C:\Apache24\htdocs\BravodentDesignsNew\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\Apache24\htdocs\BravodentDesignsNew\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Apache24\htdocs\BravodentDesignsNew\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\Apache24\htdocs\BravodentDesignsNew\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Apache24\htdocs\BravodentDesignsNew\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Apache24\htdocs\BravodentDesignsNew\app\Controllers\Home.php(97): CodeIgniter\Database\BaseConnection->query('INSERT INTO con...', Array)
+#3 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(933): App\Controllers\Home->contact_us()
+#4 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Apache24\htdocs\BravodentDesignsNew\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Apache24\htdocs\BravodentDesignsNew\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#7 C:\Apache24\htdocs\BravodentDesignsNew\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#8 C:\Apache24\htdocs\BravodentDesignsNew\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#9 {main}
+CRITICAL - 2026-02-20 14:20:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: POST, Route: contactUs]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(97): CodeIgniter\Database\BaseConnection->query('INSERT INTO contact_us (name, email, phone, message) VALUES (?, ?, ?, ?)', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->contact_us()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
