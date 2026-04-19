@@ -7,29 +7,59 @@ use Config\Database;
 
 class Home extends BaseController
 {
-    public function index()
+    public function index(): string
     {
-        return view('inc/header') . view('Home') . view('inc/footer');
+        $cacheKey = 'static_homepage';
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header')
+                . view('Home')
+                . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+
+        return $html;
     }
+
 
     public function about()
     {
-        return view('inc/header') . view('About') . view('inc/footer');
+        $cacheKey = "static_aboutpage";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('About') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+
+        return $html;
     }
 
     public function prodService()
     {
-        return view('inc/header') . view('prodservice') . view('inc/footer');
+        $cacheKey = "static_prodservice";
+        if (! $html = cache($cacheKey)) {
+            $html =  view('inc/header') . view('prodservice') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function workflow()
     {
-        return view('inc/header') . view('workflow') . view('inc/footer');
+        $cacheKey = "static_workflow";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('workflow') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function join_ourtTeam()
     {
-        return view('inc/header') . view('join_our_team') . view('inc/footer');
+        $cacheKey = "static_joinoutteam";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('join_our_team') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function contactUs()
@@ -39,22 +69,42 @@ class Home extends BaseController
 
     public function  faq()
     {
-        return view('inc/header') . view('faq') . view('inc/footer');
+        $cacheKey = "static_faq";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('faq') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function pp()
     {
-        return view('inc/header') . view('privacypolicy') . view('inc/footer');
+        $cacheKey = "static_privacypolicy";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('privacypolicy') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function tc()
     {
-        return view('inc/header') . view('termsconditions') . view('inc/footer');
+        $cacheKey = "static_tc";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('termsconditions') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function blogs()
     {
-        return view('inc/header') . view('blogs') . view('inc/footer');
+        $cacheKey = "static_tc";
+        if (! $html = cache($cacheKey)) {
+            $html = view('inc/header') . view('blogs') . view('inc/footer');
+            cache()->save($cacheKey, $html, 86400 * 30);
+        }
+        return $html;
     }
 
     public function contact_us()
